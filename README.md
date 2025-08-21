@@ -1,4 +1,5 @@
-# Transformer-Based-Hinglish-Hindi-English-Translator
+# **Transformer-Based-Hinglish-Hindi-English-Translator**
+
 
 Fine-tuning Transformers for Multilingual Translation
 This project demonstrates a complete NLP pipeline for translating Hinglish (Hindi + English mix) text into English, passing through an intermediate Hindi translation step.
@@ -30,17 +31,6 @@ Deployed on Hugging Face Spaces, this model is accessible for both technical use
 ├── requirements.txt      # Dependencies
 
 └── README.md             # Project Documentation
-
----
-## 📂 Project Structure
-
-- **Base Model:** MarianMT
-
-- **Dataset:** Hinglish-Hindi + Hindi-English parallel corpora
-
-- **Fine-Tuning:** Hugging Face Transformers (Trainer API)
-
-- **Evaluation Metric:** BLEU, SacreBLEU
 
 ---
 
