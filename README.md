@@ -58,6 +58,13 @@ Deployed on Hugging Face Spaces, this model is accessible for both technical use
 
 **Evaluation Metric:** BLEU, SacreBLEU
 
+## 📈 Results: 
+Our fine-tuned Transformer achieved
+**BERTScore** F1: 0.90, 
+**ROUGE-L F1**: 0.96,  
+**BLEU score** of 0.85, 
+demonstrating strong semantic alignment and high-quality translations for Hindi → English.
+
 ---
 
 ## 🌟 Future Improvements
